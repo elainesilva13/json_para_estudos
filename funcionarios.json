@@ -1,0 +1,83 @@
+[
+ 
+    {
+ 
+    "id": 1,
+ 
+    "nome": "Ana Souza",
+ 
+    "cargo": "Atendente",
+ 
+    "telefone": "(11) 98888-1234",
+ 
+    "email": "ana.souza@petshop.com",
+ 
+    "img": "pessoa.png"
+ 
+  },
+ 
+  {
+ 
+    "id": 2,
+ 
+    "nome": "Carlos Lima",
+ 
+    "cargo": "Veterinário",
+ 
+    "telefone": "(11) 97777-4321",
+ 
+    "email": "carlos.lima@petshop.com",
+ 
+    "img": "pessoa.png"
+ 
+  },
+ 
+  {
+ 
+    "id": 3,
+ 
+    "nome": "Mariana Oliveira",
+ 
+    "cargo": "Tosadora",
+ 
+    "telefone": "(11) 96666-7890",
+ 
+    "email": "mariana.oliveira@petshop.com",
+ 
+    "img": "pessoa.png"
+ 
+  },
+ 
+  {
+ 
+    "id": 4,
+ 
+    "nome": "João Pedro",
+ 
+    "cargo": "Gerente",
+ 
+    "telefone": "(11) 95555-2468",
+ 
+    "email": "joao.pedro@petshop.com",
+ 
+    "img": "pessoa.png"
+ 
+  },
+ 
+  {
+ 
+    "id": 5,
+ 
+    "nome": "Luciana Ribeiro",
+ 
+    "cargo": "Recepcionista",
+ 
+    "telefone": "(11) 94444-3579",
+ 
+    "email": "luciana.ribeiro@petshop.com",
+ 
+    "img": "pessoa.png"
+ 
+  }
+ 
+]

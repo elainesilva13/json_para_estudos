@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "nome": "Rex",
+      "tipo": "Cão",
+      "raca": "Labrador",
+      "idade": 3,
+      "nome_dono": "Carlos Lima",
+      "img": "gato1.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Mia",
+      "tipo": "Gato",
+      "raca": "Siamês",
+      "idade": 2,
+      "nome_dono": "Luciana Ribeiro",
+      "img": "gato1.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Thor",
+      "tipo": "Cão",
+      "raca": "Pitbull",
+      "idade": 5,
+      "nome_dono": "Ana Souza",
+      "img": "gato1.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Luna",
+      "tipo": "Gato",
+      "raca": "Persa",
+      "idade": 4,
+      "nome_dono": "João Pedro",
+      "img": "gato1.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Bob",
+      "tipo": "Cão",
+      "raca": "Poodle",
+      "idade": 6,
+      "nome_dono": "Mariana Oliveira",
+      "img": "gato1.jpg"
+    }
+  ]

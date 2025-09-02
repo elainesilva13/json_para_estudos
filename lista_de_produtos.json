@@ -1,0 +1,23 @@
+[
+  {
+        "id": 1,
+        "nome": "Ração para cachorro",
+        "estoque": 3,
+        "preco": 60,
+        "img": "racao.jpeg"
+      },
+      {
+        "id": 2,
+        "nome": "Casinha para animais",
+        "estoque": 2,
+        "preco": 70,
+        "img": "casinha.jpeg"
+      },
+      {
+        "id": 3,
+        "nome": "Potinho",
+        "estoque": 5,
+        "preco": 30,
+        "img": "potinho.jpeg"
+    }
+  ]

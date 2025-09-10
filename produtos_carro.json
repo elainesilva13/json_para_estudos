@@ -1,0 +1,30 @@
+[
+  {
+    "nome_produto": "Fone de Ouvido Bluetooth",
+    "preco": 129.90,
+    "imagem_produto": "https://exemplo.com/imagens/fone_bluetooth.jpg",
+    "qtd_estrelas": 4.5,
+    "cod_ref": "FON12345"
+  },
+  {
+    "nome_produto": "Teclado Mecânico Gamer",
+    "preco": 249.99,
+    "imagem_produto": "https://exemplo.com/imagens/teclado_gamer.jpg",
+    "qtd_estrelas": 4.8,
+    "cod_ref": "TEC67890"
+  },
+  {
+    "nome_produto": "Mouse Sem Fio",
+    "preco": 89.00,
+    "imagem_produto": "https://exemplo.com/imagens/mouse_semfio.jpg",
+    "qtd_estrelas": 4.3,
+    "cod_ref": "MOU54321"
+  },
+  {
+    "nome_produto": "Monitor LED 24''",
+    "preco": 799.00,
+    "imagem_produto": "https://exemplo.com/imagens/monitor_led.jpg",
+    "qtd_estrelas": 4.7,
+    "cod_ref": "MON24680"
+  }
+]

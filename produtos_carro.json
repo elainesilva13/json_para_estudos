@@ -2,29 +2,71 @@
   {
     "nome_produto": "Fone de Ouvido Bluetooth",
     "preco": 129.90,
-    "imagem_produto": "https://exemplo.com/imagens/fone_bluetooth.jpg",
+    "imagem_produto": "fone_bluetooth.jpg",
     "qtd_estrelas": 4.5,
     "cod_ref": "FON12345"
   },
   {
-    "nome_produto": "Teclado Mecânico Gamer",
+    "nome_produto": "Teclado Mecânico RGB",
     "preco": 249.99,
-    "imagem_produto": "https://exemplo.com/imagens/teclado_gamer.jpg",
+    "imagem_produto": "teclado_rgb.jpg",
     "qtd_estrelas": 4.8,
     "cod_ref": "TEC67890"
   },
   {
-    "nome_produto": "Mouse Sem Fio",
-    "preco": 89.00,
-    "imagem_produto": "https://exemplo.com/imagens/mouse_semfio.jpg",
-    "qtd_estrelas": 4.3,
+    "nome_produto": "Mouse Gamer Sem Fio",
+    "preco": 99.90,
+    "imagem_produto": "mouse_gamer.jpg",
+    "qtd_estrelas": 4.6,
     "cod_ref": "MOU54321"
   },
   {
-    "nome_produto": "Monitor LED 24''",
-    "preco": 799.00,
-    "imagem_produto": "https://exemplo.com/imagens/monitor_led.jpg",
+    "nome_produto": "Cadeira Gamer Reclinável",
+    "preco": 1099.00,
+    "imagem_produto": "cadeira_gamer.jpg",
     "qtd_estrelas": 4.7,
+    "cod_ref": "CAD11223"
+  },
+  {
+    "nome_produto": "Monitor LED 27'' Full HD",
+    "preco": 899.00,
+    "imagem_produto": "monitor_led_27.jpg",
+    "qtd_estrelas": 4.4,
     "cod_ref": "MON24680"
+  },
+  {
+    "nome_produto": "Notebook Intel i5 8GB RAM",
+    "preco": 2999.99,
+    "imagem_produto": "notebook_i5.jpg",
+    "qtd_estrelas": 4.3,
+    "cod_ref": "NOT33445"
+  },
+  {
+    "nome_produto": "Webcam Full HD 1080p",
+    "preco": 149.50,
+    "imagem_produto": "webcam_hd.jpg",
+    "qtd_estrelas": 4.2,
+    "cod_ref": "WEB98765"
+  },
+  {
+    "nome_produto": "Microfone Condensador USB",
+    "preco": 209.00,
+    "imagem_produto": "microfone_usb.jpg",
+    "qtd_estrelas": 4.6,
+    "cod_ref": "MIC66778"
+  },
+  {
+    "nome_produto": "HD Externo 1TB",
+    "preco": 349.90,
+    "imagem_produto": "hd_1tb.jpg",
+    "qtd_estrelas": 4.5,
+    "cod_ref": "HD99887"
+  },
+  {
+    "nome_produto": "Smartwatch Fitness",
+    "preco": 179.90,
+    "imagem_produto": "smartwatch.jpg",
+    "qtd_estrelas": 4.4,
+    "cod_ref": "SMA55667"
   }
 ]

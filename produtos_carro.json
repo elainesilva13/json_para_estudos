@@ -1,72 +1,352 @@
 [
-  {
-    "nome_produto": "Fone de Ouvido Bluetooth",
-    "preco": 129.90,
-    "imagem_produto": "fone_bluetooth.jpg",
-    "qtd_estrelas": 4.5,
-    "cod_ref": "FON12345"
-  },
-  {
-    "nome_produto": "Teclado Mecânico RGB",
-    "preco": 249.99,
-    "imagem_produto": "teclado_rgb.jpg",
-    "qtd_estrelas": 4.8,
-    "cod_ref": "TEC67890"
-  },
-  {
-    "nome_produto": "Mouse Gamer Sem Fio",
-    "preco": 99.90,
-    "imagem_produto": "mouse_gamer.jpg",
-    "qtd_estrelas": 4.6,
-    "cod_ref": "MOU54321"
-  },
-  {
-    "nome_produto": "Cadeira Gamer Reclinável",
-    "preco": 1099.00,
-    "imagem_produto": "cadeira_gamer.jpg",
-    "qtd_estrelas": 4.7,
-    "cod_ref": "CAD11223"
-  },
-  {
-    "nome_produto": "Monitor LED 27'' Full HD",
-    "preco": 899.00,
-    "imagem_produto": "monitor_led_27.jpg",
-    "qtd_estrelas": 4.4,
-    "cod_ref": "MON24680"
-  },
-  {
-    "nome_produto": "Notebook Intel i5 8GB RAM",
-    "preco": 2999.99,
-    "imagem_produto": "notebook_i5.jpg",
-    "qtd_estrelas": 4.3,
-    "cod_ref": "NOT33445"
-  },
-  {
-    "nome_produto": "Webcam Full HD 1080p",
-    "preco": 149.50,
-    "imagem_produto": "webcam_hd.jpg",
-    "qtd_estrelas": 4.2,
-    "cod_ref": "WEB98765"
-  },
-  {
-    "nome_produto": "Microfone Condensador USB",
-    "preco": 209.00,
-    "imagem_produto": "microfone_usb.jpg",
-    "qtd_estrelas": 4.6,
-    "cod_ref": "MIC66778"
-  },
-  {
-    "nome_produto": "HD Externo 1TB",
-    "preco": 349.90,
-    "imagem_produto": "hd_1tb.jpg",
-    "qtd_estrelas": 4.5,
-    "cod_ref": "HD99887"
-  },
-  {
-    "nome_produto": "Smartwatch Fitness",
-    "preco": 179.90,
-    "imagem_produto": "smartwatch.jpg",
-    "qtd_estrelas": 4.4,
-    "cod_ref": "SMA55667"
-  }
+    {
+        "nome_produto": "Pneu Aro 15 Firestone",
+        "preco": 162.98,
+        "imagem_produto": "https://example.com/images/produto_1.jpg",
+        "qtd_estrelas": 1,
+        "cod_ref": "CAR1001"
+    },
+    {
+        "nome_produto": "Pneu Aro 16 Michelin",
+        "preco": 1752.97,
+        "imagem_produto": "https://example.com/images/produto_2.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1002"
+    },
+    {
+        "nome_produto": "Kit Embreagem Sachs",
+        "preco": 663.63,
+        "imagem_produto": "https://example.com/images/produto_3.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1003"
+    },
+    {
+        "nome_produto": "Amortecedor Dianteiro Cofap",
+        "preco": 999.46,
+        "imagem_produto": "https://example.com/images/produto_4.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1004"
+    },
+    {
+        "nome_produto": "Bateria Moura 60Ah",
+        "preco": 2051.31,
+        "imagem_produto": "https://example.com/images/produto_5.jpg",
+        "qtd_estrelas": 3,
+        "cod_ref": "CAR1005"
+    },
+    {
+        "nome_produto": "Filtro de Ar Fram",
+        "preco": 2300.7,
+        "imagem_produto": "https://example.com/images/produto_6.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1006"
+    },
+    {
+        "nome_produto": "Filtro de Óleo Bosch",
+        "preco": 2209.58,
+        "imagem_produto": "https://example.com/images/produto_7.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1007"
+    },
+    {
+        "nome_produto": "Jogo de Velas NGK",
+        "preco": 1461.75,
+        "imagem_produto": "https://example.com/images/produto_8.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1008"
+    },
+    {
+        "nome_produto": "Pastilha de Freio Cobreq",
+        "preco": 1120.37,
+        "imagem_produto": "https://example.com/images/produto_9.jpg",
+        "qtd_estrelas": 5,
+        "cod_ref": "CAR1009"
+    },
+    {
+        "nome_produto": "Disco de Freio Fremax",
+        "preco": 524.18,
+        "imagem_produto": "https://example.com/images/produto_10.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1010"
+    },
+    {
+        "nome_produto": "Farol de Milha Universal",
+        "preco": 1000.7,
+        "imagem_produto": "https://example.com/images/produto_11.jpg",
+        "qtd_estrelas": 1,
+        "cod_ref": "CAR1011"
+    },
+    {
+        "nome_produto": "Lanterna Traseira Esquerda",
+        "preco": 1752.15,
+        "imagem_produto": "https://example.com/images/produto_12.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1012"
+    },
+    {
+        "nome_produto": "Lanterna Traseira Direita",
+        "preco": 676.62,
+        "imagem_produto": "https://example.com/images/produto_13.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1013"
+    },
+    {
+        "nome_produto": "Retrovisor Elétrico Lado Direito",
+        "preco": 1416.1,
+        "imagem_produto": "https://example.com/images/produto_14.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1014"
+    },
+    {
+        "nome_produto": "Retrovisor Manual Lado Esquerdo",
+        "preco": 1493.71,
+        "imagem_produto": "https://example.com/images/produto_15.jpg",
+        "qtd_estrelas": 1,
+        "cod_ref": "CAR1015"
+    },
+    {
+        "nome_produto": "Tapete Automotivo Borracha",
+        "preco": 1236.28,
+        "imagem_produto": "https://example.com/images/produto_16.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1016"
+    },
+    {
+        "nome_produto": "Tapete Carpete Personalizado",
+        "preco": 1501.44,
+        "imagem_produto": "https://example.com/images/produto_17.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1017"
+    },
+    {
+        "nome_produto": "Capa de Volante Couro",
+        "preco": 1748.76,
+        "imagem_produto": "https://example.com/images/produto_18.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1018"
+    },
+    {
+        "nome_produto": "Suporte Celular Veicular",
+        "preco": 701.2,
+        "imagem_produto": "https://example.com/images/produto_19.jpg",
+        "qtd_estrelas": 3,
+        "cod_ref": "CAR1019"
+    },
+    {
+        "nome_produto": "Carregador Automotivo USB",
+        "preco": 1811.42,
+        "imagem_produto": "https://example.com/images/produto_20.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1020"
+    },
+    {
+        "nome_produto": "Rádio Automotivo Pioneer",
+        "preco": 869.13,
+        "imagem_produto": "https://example.com/images/produto_21.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1021"
+    },
+    {
+        "nome_produto": "Central Multimídia Positron",
+        "preco": 1823.62,
+        "imagem_produto": "https://example.com/images/produto_22.jpg",
+        "qtd_estrelas": 1,
+        "cod_ref": "CAR1022"
+    },
+    {
+        "nome_produto": "Calota Aro 14 Universal",
+        "preco": 1552.08,
+        "imagem_produto": "https://example.com/images/produto_23.jpg",
+        "qtd_estrelas": 5,
+        "cod_ref": "CAR1023"
+    },
+    {
+        "nome_produto": "Calota Aro 15 Universal",
+        "preco": 1882.65,
+        "imagem_produto": "https://example.com/images/produto_24.jpg",
+        "qtd_estrelas": 1,
+        "cod_ref": "CAR1024"
+    },
+    {
+        "nome_produto": "Barra de Teto Universal",
+        "preco": 1108.55,
+        "imagem_produto": "https://example.com/images/produto_25.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1025"
+    },
+    {
+        "nome_produto": "Bagageiro de Teto Thule",
+        "preco": 2224.03,
+        "imagem_produto": "https://example.com/images/produto_26.jpg",
+        "qtd_estrelas": 5,
+        "cod_ref": "CAR1026"
+    },
+    {
+        "nome_produto": "Escapamento Esportivo",
+        "preco": 1030.84,
+        "imagem_produto": "https://example.com/images/produto_27.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1027"
+    },
+    {
+        "nome_produto": "Silencioso Traseiro",
+        "preco": 1833.94,
+        "imagem_produto": "https://example.com/images/produto_28.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1028"
+    },
+    {
+        "nome_produto": "Sensor de Estacionamento",
+        "preco": 2366.15,
+        "imagem_produto": "https://example.com/images/produto_29.jpg",
+        "qtd_estrelas": 5,
+        "cod_ref": "CAR1029"
+    },
+    {
+        "nome_produto": "Câmera de Ré Universal",
+        "preco": 994.14,
+        "imagem_produto": "https://example.com/images/produto_30.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1030"
+    },
+    {
+        "nome_produto": "Friso Lateral Personalizado",
+        "preco": 1404.58,
+        "imagem_produto": "https://example.com/images/produto_31.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1031"
+    },
+    {
+        "nome_produto": "Protetor de Cárter Aço",
+        "preco": 1042.02,
+        "imagem_produto": "https://example.com/images/produto_32.jpg",
+        "qtd_estrelas": 3,
+        "cod_ref": "CAR1032"
+    },
+    {
+        "nome_produto": "Lâmpada Super Branca H7",
+        "preco": 2324.72,
+        "imagem_produto": "https://example.com/images/produto_33.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1033"
+    },
+    {
+        "nome_produto": "Lâmpada LED H4",
+        "preco": 1061.23,
+        "imagem_produto": "https://example.com/images/produto_34.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1034"
+    },
+    {
+        "nome_produto": "Óleo de Motor 5W30",
+        "preco": 1817.0,
+        "imagem_produto": "https://example.com/images/produto_35.jpg",
+        "qtd_estrelas": 3,
+        "cod_ref": "CAR1035"
+    },
+    {
+        "nome_produto": "Óleo de Motor 10W40",
+        "preco": 425.56,
+        "imagem_produto": "https://example.com/images/produto_36.jpg",
+        "qtd_estrelas": 3,
+        "cod_ref": "CAR1036"
+    },
+    {
+        "nome_produto": "Cera Automotiva",
+        "preco": 1665.46,
+        "imagem_produto": "https://example.com/images/produto_37.jpg",
+        "qtd_estrelas": 3,
+        "cod_ref": "CAR1037"
+    },
+    {
+        "nome_produto": "Shampoo Automotivo",
+        "preco": 878.02,
+        "imagem_produto": "https://example.com/images/produto_38.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1038"
+    },
+    {
+        "nome_produto": "Aromatizante Carro",
+        "preco": 146.86,
+        "imagem_produto": "https://example.com/images/produto_39.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1039"
+    },
+    {
+        "nome_produto": "Capa de Banco Courino",
+        "preco": 200.81,
+        "imagem_produto": "https://example.com/images/produto_40.jpg",
+        "qtd_estrelas": 3,
+        "cod_ref": "CAR1040"
+    },
+    {
+        "nome_produto": "Capa de Banco Tecido",
+        "preco": 1040.58,
+        "imagem_produto": "https://example.com/images/produto_41.jpg",
+        "qtd_estrelas": 3,
+        "cod_ref": "CAR1041"
+    },
+    {
+        "nome_produto": "Macaco Hidráulico Tipo Jacaré",
+        "preco": 1392.87,
+        "imagem_produto": "https://example.com/images/produto_42.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1042"
+    },
+    {
+        "nome_produto": "Chave de Roda Cruzeta",
+        "preco": 2118.48,
+        "imagem_produto": "https://example.com/images/produto_43.jpg",
+        "qtd_estrelas": 5,
+        "cod_ref": "CAR1043"
+    },
+    {
+        "nome_produto": "Kit Chave de Velas",
+        "preco": 1625.22,
+        "imagem_produto": "https://example.com/images/produto_44.jpg",
+        "qtd_estrelas": 5,
+        "cod_ref": "CAR1044"
+    },
+    {
+        "nome_produto": "Cabo de Bateria 200A",
+        "preco": 483.17,
+        "imagem_produto": "https://example.com/images/produto_45.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1045"
+    },
+    {
+        "nome_produto": "Extintor de Incêndio Veicular",
+        "preco": 634.63,
+        "imagem_produto": "https://example.com/images/produto_46.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1046"
+    },
+    {
+        "nome_produto": "Triângulo de Sinalização",
+        "preco": 1631.05,
+        "imagem_produto": "https://example.com/images/produto_47.jpg",
+        "qtd_estrelas": 4,
+        "cod_ref": "CAR1047"
+    },
+    {
+        "nome_produto": "Cinta de Reboque",
+        "preco": 2064.16,
+        "imagem_produto": "https://example.com/images/produto_48.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1048"
+    },
+    {
+        "nome_produto": "Organizador de Porta-Malas",
+        "preco": 1264.04,
+        "imagem_produto": "https://example.com/images/produto_49.jpg",
+        "qtd_estrelas": 5,
+        "cod_ref": "CAR1049"
+    },
+    {
+        "nome_produto": "Kit Polimento Automotivo",
+        "preco": 650.02,
+        "imagem_produto": "https://example.com/images/produto_50.jpg",
+        "qtd_estrelas": 2,
+        "cod_ref": "CAR1050"
+    }
 ]
